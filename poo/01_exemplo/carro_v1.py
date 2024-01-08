@@ -1,7 +1,7 @@
 # documentação: https://docs.python.org/pt-br/3/tutorial/classes.html#:~:text=class%20MyClass%3A%0A%20%20%20%20%22%22%22A%20simple%20example%20class%22%22%22%0A%20%20%20%20i%20%3D%2012345%0A%0A%20%20%20%20def%20f(self)%3A%0A%20%20%20%20%20%20%20%20return%20%27hello%20world%27
 
 '''
-Exemplo simples de uma classe em Python
+Exemplo de classe em Python
 
 1. Classe
 2. Construtor (__init__)
